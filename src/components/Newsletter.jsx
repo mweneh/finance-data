@@ -11,9 +11,9 @@ function Newsletter() {
             <div className='my-4'>
                 <div className=' flex felx-col sm:flex-row items-center justify-between w-full'>
                     <input className='p-3 flex w-full rounded-md text-black' type="email" placeholder='Enter Email' />
-                    <button className='bg-[#00df9a] text-black rounded-md font-medium my-6 mx-auto py-3 ml-4 w-[200px] '>Notify Me</button>
+                    <button className='bg-[#00df61] text-black rounded-md font-medium my-6 mx-auto py-3 ml-4 w-[200px] '>Notify Me</button>
                 </div>
-                <p> We care about your data. Read our <span className='text-[#00df9a]'>Privacy Policy.</span> </p>
+                <p> We care about your data. Read our <span className='text-[#00df61]'>Privacy Policy.</span> </p>
             </div>
 
         </div>

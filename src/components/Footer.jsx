@@ -11,8 +11,8 @@ function Footer() {
   return (
     <div className=' mx-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
         <div>
-        <h1 className='w-full text-3xl font-bold text-[#00df9a]'>REACT.</h1>
-        <p className='py-4'> Lorem ipsum dagada mei mei</p>
+        <h1 className='w-full text-3xl font-bold text-[#00df61]'>Etika Data.</h1>
+        <p className='py-4'>You can reach us for your personal and organizational needs via the social sites below:</p>
         <div className=' flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare />
             <FaInstagram />
