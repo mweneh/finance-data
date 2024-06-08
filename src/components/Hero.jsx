@@ -1,5 +1,5 @@
 import React from 'react';
-import Typed from 'react-typed';
+import { ReactTyped as Typed } from 'react-typed'; // Using alias
 
 const Hero = () => {
   return (
